@@ -1,19 +1,20 @@
-This is our SCM project.
-We created google search engine lookalike.
-Google Search is the most widely used web search engine.
-It uses sophisticated algorithms to retrieve and rank web pages based on relevance to the user's query, providing results in milliseconds. 
-Google Search supports various features, including image and video search, maps, news, and personalized search results. 
-It dominates the search market due to its efficiency, accuracy, and continuous innovation.
+This is our SCM project.<br>
+We created google search engine lookalike.<br>
+Google Search is the most widely used web search engine.<br>
+It uses sophisticated algorithms to retrieve and rank web pages based on relevance to the user's query, providing results in milliseconds. <br>
+Google Search supports various features, including image and video search, maps, news, and personalized search results. <br>
+It dominates the search market due to its efficiency, accuracy, and continuous innovation.<br>
 
 
 
-3 Teammates:-
-Anurag bhaskhar
-Anushka singh 
-Aprana
+3 Teammates:-<br>
+Anurag bhaskhar<br>
+Anushka singh <br>
+Aprana<br>
 
 objective /uses of google engine:
 <br>
+
 Information Retrieval: The primary function is to provide users with access to a vast amount of information available on the internet. Users can search for anything from historical events to scientific research papers to DIY tutorials.<br>
 
 Research: Students, professionals, and researchers rely on Google to find relevant sources for their projects, papers, and studies. Google Scholar, a specialized search engine, is particularly useful for academic research.<br>
