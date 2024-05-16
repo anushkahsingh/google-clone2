@@ -4,9 +4,11 @@ Google Search is the most widely used web search engine.<br>
 It uses sophisticated algorithms to retrieve and rank web pages based on relevance to the user's query, providing results in milliseconds. <br>
 Google Search supports various features, including image and video search, maps, news, and personalized search results. <br>
 It dominates the search market due to its efficiency, accuracy, and continuous innovation.<br>
-
-
-
+Uses of HTML:
+Web Pages Development
+Navigating the Internet
+Storage Function in the Browser
+Responsive Designs
 3 Teammates:-<br>
 Anurag bhaskhar<br>
 Anushka singh <br>
